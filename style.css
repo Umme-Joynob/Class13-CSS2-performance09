@@ -1,0 +1,36 @@
+
+p{
+    color: mediumvioletred;
+}
+.class1 p{
+    color: darkblue;
+}
+.class1 h1{
+    color: darkblue;
+}
+
+
+.class1 p {
+    background: fixed #f4ddf5
+        url("images/panda.jpg") no-repeat
+        center;
+}
+
+#class2 {
+    background-color: aquamarine;
+}
+.class4 {
+    background-color: #eacef8;
+}
+.class1 h1{
+    border-style: solid dotted dashed ridge;
+    border-width: 5px 10px 15px 20px;
+    border-color: red green yellow blue;
+}
+
+.class5 {
+    height: 500px;
+    width: 500px;
+    border: 5px dashed blue;
+        
+}
